@@ -1,2 +1,2 @@
 # hikingApp
-App for hiking writted in Kotlin
+App for hiking writted in Java
